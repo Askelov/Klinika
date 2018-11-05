@@ -1,0 +1,2 @@
+# Klinika
+C# konzolna aplikacija
