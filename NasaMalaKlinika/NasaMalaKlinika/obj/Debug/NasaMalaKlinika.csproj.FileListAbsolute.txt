@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe.config
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.pdb
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.exe
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.pdb
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\IspisiOpcijeLibrary.dll
+C:\Users\User\source\repos\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\IspisiOpcijeLibrary.pdb
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe.config
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.pdb
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\IspisiOpcijeLibrary.pdb
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.exe
+C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.pdb
