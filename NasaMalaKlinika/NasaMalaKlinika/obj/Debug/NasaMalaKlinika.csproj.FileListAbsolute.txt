@@ -15,3 +15,12 @@ C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.
 C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.exe
 C:\Users\User\Desktop\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.pdb
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe.config
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.exe
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\NasaMalaKlinika.pdb
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\bin\Debug\IspisiOpcijeLibrary.pdb
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csprojAssemblyReference.cache
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csproj.CoreCompileInputs.cache
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.csproj.CopyComplete
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.exe
+C:\git\Klinika\NasaMalaKlinika\NasaMalaKlinika\obj\Debug\NasaMalaKlinika.pdb
