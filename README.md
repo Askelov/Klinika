@@ -2,7 +2,7 @@
 ## C# konzolna aplikacija
 #### ZADATAK
 Projekat uradjen u C# u vidu kozolne aplikacije za klinike.
-Aplikacija ima zadatak da vodi cijelu kliniku.
+Aplikacija ima zadatak da vodi cijelu kliniku i treba da prati tok od kada pacijent dodje na salter, njegove prijave/registracije, zakazivanja termina, obavljanja pregleda, te njegove naplate.
 
 #### KLASE
 
