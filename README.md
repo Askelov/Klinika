@@ -1,10 +1,10 @@
 # Klinika
 # C# konzolna aplikacija
-##ZADATAK
+## ZADATAK
 Projekat uradjen u C# u vidu kozolne aplikacije za klinike.
 Aplikacija ima zadatak da vodi cijelu kliniku.
 
-##FUNKCIONALNOSTI
--registracije zaposlenih(doktora, tehnicara)
--registracije pacijenata(kreiranja kartona)
+## FUNKCIONALNOSTI
+- registracije zaposlenih(doktora, tehnicara)
+- registracije pacijenata(kreiranja kartona)
 
