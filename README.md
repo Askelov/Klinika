@@ -24,6 +24,13 @@ Aplikacija ima zadatak da vodi cijelu kliniku.
 - pretraga pacijenata po imenu ili prezimenu ili jmbgu
 
   <img src="/screenshots/meni4.JPG" width="300"/>
+  
+- dodatne analize u vezi klinike i pacijenata
+
+  <img src="/screenshots/meni5.JPG" width="300"/>
+  
+ 
+
 
   
 
