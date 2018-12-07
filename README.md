@@ -6,7 +6,7 @@ Aplikacija ima zadatak da vodi cijelu kliniku.
 
 #### KLASE
 <p align="center">
-  <img src="klase.jpg" width="350"/>
+  <img src="screenshots/klase.jpg" width="350"/>
 </p>
 
 ## FUNKCIONALNOSTI
