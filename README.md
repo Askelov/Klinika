@@ -15,5 +15,5 @@ Aplikacija ima zadatak da vodi cijelu kliniku.
 
 - registracije zaposlenih(doktora, tehnicara), registracije pacijenata(kreiranja kartona) uz kreiranje kartona
 
-   <img src="/screenshots/meni2.JPG" width="300"/>
+   <img src="/screenshots/meni2.JPG" width="400"/>
 
